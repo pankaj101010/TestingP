@@ -2,8 +2,6 @@ this is first line
 This is second line
 This is third line
 this fourth line
-<<<<<<< HEAD
 this is 5th file
-=======
 this is my 5th line
->>>>>>> a961edcdfd084c0652ab9f076e946374f8822931
+
